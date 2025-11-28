@@ -40,7 +40,7 @@ export const Hero = () => {
         </h1>
         
         <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-8 max-w-4xl mx-auto">
-        We have the alien space craft. We do not have the people who can understand the craft. Until we fix that, nothing changes.
+        We have the alien space craft. But we do not have enough people who can understand the craft. Until we fix that, nothing changes.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center">

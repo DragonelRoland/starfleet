@@ -23,7 +23,7 @@ export const Mission = () => {
             </p>
             
             <p className="text-lg md:text-xl leading-relaxed">
-              Our intention is to organize in middle of January in San Francisco, CA a hackathon. Prior to that, we want to organize a working group specifying what technologies we shall be focusing on during the hackathon.
+            Our intention is to soon organize a hackathon in San Francisco, CA. Prior to that, we want to organize a working group specifying what technologies we shall be focusing on during the hackathon.
             </p>
           </CardContent>
         </Card>

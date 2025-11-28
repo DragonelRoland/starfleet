@@ -13,7 +13,7 @@ export const Lore = () => {
         <Card className="bg-card/50 backdrop-blur border-primary/20 shadow-glow mb-8">
           <CardContent className="p-8 md:p-12 text-center">
             <p className="text-lg md:text-xl leading-relaxed mb-8">
-              Dive deeper into the story behind the mission. Explore the full narrative, the theories, and the questions that drive us.
+              Dive deeper into the story behind the mission.
             </p>
             
             <Button 
