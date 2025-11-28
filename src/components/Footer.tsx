@@ -6,7 +6,7 @@ export const Footer = () => {
           © 2025 STARFLEET.DIY — A speculative engineering initiative
         </p>
         <p className="text-sm text-muted-foreground/70 mt-2 font-mono">
-          "The future is already here — we're just reverse engineering it."
+          "The future is already here."
         </p>
       </div>
     </footer>

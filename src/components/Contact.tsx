@@ -7,7 +7,7 @@ export const Contact = () => {
     <section className="py-20 px-4 relative">
       <div className="container mx-auto max-w-4xl text-center">
         <h2 className="text-4xl md:text-5xl font-bold mb-8">
-          Ready to Make <span className="text-primary">History</span>?
+          Ready to Step <span className="text-primary">Up</span>?
         </h2>
         
         <Card className="bg-gradient-hero backdrop-blur border-primary/30 shadow-glow-strong">
@@ -28,7 +28,7 @@ export const Contact = () => {
             </div>
             
             <p className="text-sm text-muted-foreground mt-8">
-              Interested? Contact us to be part of the team that changes everything.
+              Interested?
             </p>
           </CardContent>
         </Card>

@@ -24,12 +24,12 @@ export const Hero = () => {
         </div>
       </div>
 
-      {/* Logo - top left */}
-      <div className="absolute top-6 left-6 z-20">
+      {/* Logo - top right */}
+      <div className="absolute top-6 right-6 z-20">
         <img
           src={logo}
           alt="Starfleet DIY Logo"
-          className="w-16 h-16 md:w-20 md:h-20 drop-shadow-glow-strong invert"
+          className="w-24 h-24 md:w-32 md:h-32 drop-shadow-glow-strong invert"
         />
       </div>
 
