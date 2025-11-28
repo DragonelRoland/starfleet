@@ -14,18 +14,16 @@ export const Mission = () => {
               Imagine there is given public access to Alien spacecraft to team who will present best plan to reverse engineer such an artifact.
             </p>
             
-            <p className="text-lg md:text-xl leading-relaxed mb-6 text-muted-foreground">
+            <p className="text-lg md:text-xl leading-relaxed mb-6">
               We believe it's just the matter of time. And also matter of the good plan. Then, why to wait?
             </p>
             
-            <div className="border-l-4 border-accent pl-6 my-8">
-              <p className="text-xl md:text-2xl font-mono text-accent italic">
-                "We have 0 insider informations confirming that there is such a vehicle in Humankind possession, but isn't it fun to think so?"
-              </p>
-            </div>
+            <p className="text-lg md:text-xl leading-relaxed mb-6">
+              We have 0 insider informations confirming that there is such a vehicle in Humankind possession, but isn't it fun to think so?
+            </p>
             
             <p className="text-lg md:text-xl leading-relaxed">
-              Our intention is to organize in <span className="text-primary font-bold">middle of January</span> in <span className="text-primary font-bold">San Francisco, CA</span> a hackathon. Prior to that, we want to organize a working group specifying what technologies we shall be focusing on during the hackathon.
+              Our intention is to organize in middle of January in San Francisco, CA a hackathon. Prior to that, we want to organize a working group specifying what technologies we shall be focusing on during the hackathon.
             </p>
           </CardContent>
         </Card>

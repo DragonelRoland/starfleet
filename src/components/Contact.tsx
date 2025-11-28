@@ -34,7 +34,7 @@ export const Contact = () => {
               </Button>
             </div>
             
-            <p className="text-sm text-muted-foreground mt-8 font-mono">
+            <p className="text-sm text-muted-foreground mt-8">
               Interested? Contact us to be part of the team that changes everything.
             </p>
           </CardContent>

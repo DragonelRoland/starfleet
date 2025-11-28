@@ -38,7 +38,7 @@ export const Hero = () => {
           STARFLEET.DIY
         </h1>
         
-        <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground font-mono mb-8 max-w-4xl mx-auto">
+        <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-8 max-w-4xl mx-auto">
           Reverse Engineering Tomorrow's Technology, Today
         </p>
         
