@@ -21,9 +21,12 @@ export const Contact = () => {
                 size="lg"
                 variant="outline"
                 className="border-accent text-accent hover:bg-accent hover:text-accent-foreground transition-all text-lg group"
+                asChild
               >
-                <MessageSquare className="mr-2 h-5 w-5 group-hover:animate-pulse" />
-                Join Discussion
+                <a href="https://discord.gg/McZvVGEr" target="_blank" rel="noopener noreferrer">
+                  <MessageSquare className="mr-2 h-5 w-5 group-hover:animate-pulse" />
+                  Join Discussion
+                </a>
               </Button>
             </div>
             

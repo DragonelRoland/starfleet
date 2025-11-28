@@ -47,8 +47,11 @@ export const Hero = () => {
           <Button 
             size="lg" 
             className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow hover:shadow-glow-strong transition-all text-lg px-8"
+            asChild
           >
-            Join the Mission
+            <a href="https://discord.gg/McZvVGEr" target="_blank" rel="noopener noreferrer">
+              Join the Mission
+            </a>
           </Button>
           <Button 
             size="lg" 
