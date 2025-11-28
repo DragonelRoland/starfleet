@@ -19,13 +19,6 @@ export const Contact = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button 
                 size="lg"
-                className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-glow hover:shadow-glow-strong transition-all text-lg group"
-              >
-                <Mail className="mr-2 h-5 w-5 group-hover:animate-pulse" />
-                Contact Us
-              </Button>
-              <Button 
-                size="lg"
                 variant="outline"
                 className="border-accent text-accent hover:bg-accent hover:text-accent-foreground transition-all text-lg group"
               >

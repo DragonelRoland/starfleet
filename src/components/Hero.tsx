@@ -24,22 +24,23 @@ export const Hero = () => {
         </div>
       </div>
 
+      {/* Logo - top left */}
+      <div className="absolute top-6 left-6 z-20">
+        <img
+          src={logo}
+          alt="Starfleet DIY Logo"
+          className="w-16 h-16 md:w-20 md:h-20 drop-shadow-glow-strong invert"
+        />
+      </div>
+
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center">
-        <div className="animate-float mb-8 flex justify-center">
-          <img
-            src={logo}
-            alt="Starfleet DIY Logo"
-            className="w-32 h-32 md:w-48 md:h-48 drop-shadow-glow-strong"
-          />
-        </div>
-        
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent animate-pulse-glow">
-          STARFLEET.DIY
+          Alien Space <br /> Craft Hackathon
         </h1>
         
         <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-8 max-w-4xl mx-auto">
-          Reverse Engineering Tomorrow's Technology, Today
+        We have the alien space craft. We do not have the people who can understand the craft. Until we fix that, nothing changes.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center">

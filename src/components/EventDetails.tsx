@@ -6,13 +6,13 @@ export const EventDetails = () => {
     {
       icon: Calendar,
       title: "When",
-      content: "Middle of January 2025",
+      content: "Hopefully soon",
       description: "Mark your calendars for humanity's most ambitious hackathon",
     },
     {
       icon: MapPin,
       title: "Where",
-      content: "San Francisco, CA",
+      content: "Earth",
       description: "The heart of innovation meets extraterrestrial engineering",
     },
     {
