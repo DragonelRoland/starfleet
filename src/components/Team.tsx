@@ -1,18 +1,18 @@
 export const Team = () => {
   const team = [
     {
-      name: "Roland Graser",
-      role: "Co-Founder",
-      image: "/roland.jpeg",
-      linkedin: "https://www.linkedin.com/in/roland-graser/",
-      twitter: "https://x.com/roland_graser",
-    },
-    {
       name: "Ondrej Homola",
       role: "Co-Founder",
       image: "/ondrej.jpeg",
       linkedin: "https://www.linkedin.com/in/ondrejhomola1/",
       twitter: null,
+    },
+    {
+      name: "Roland Graser",
+      role: "Co-Founder",
+      image: "/roland.jpeg",
+      linkedin: "https://www.linkedin.com/in/roland-graser/",
+      twitter: "https://x.com/roland_graser",
     },
   ];
 
@@ -23,7 +23,7 @@ export const Team = () => {
           The Team
         </h2>
 
-        <div className="flex flex-col md:flex-row gap-12 items-center justify-center">
+        <div className="flex flex-col md:flex-row gap-24 md:gap-32 items-center justify-center">
           {team.map((member) => (
             <div key={member.name} className="flex flex-col items-center text-center">
               <div className="w-48 h-48 mb-6 rounded-full overflow-hidden border-2 border-primary/20">

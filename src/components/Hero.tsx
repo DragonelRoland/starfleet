@@ -29,7 +29,7 @@ export const Hero = () => {
         <img
           src={logo}
           alt="Starfleet DIY Logo"
-          className="w-24 h-24 md:w-32 md:h-32 drop-shadow-glow-strong invert"
+          className="w-24 h-24 md:w-32 md:h-32 drop-shadow-glow-strong"
         />
       </div>
 
